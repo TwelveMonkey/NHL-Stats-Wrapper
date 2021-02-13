@@ -1,0 +1,214 @@
+[ {
+    "name" : "person.stats",
+    "description" : "Expands the stats section in a person"
+  }, {
+    "name" : "person.names",
+    "description" : "Expands the other names section in a person"
+  }, {
+    "name" : "person.currentTeam",
+    "description" : "Expands the current team node for person"
+  }, {
+    "name" : "person.social",
+    "description" : "Expands team social network info for a team. For example, twitter, facebook, and instagram, if available"
+  }, {
+    "name" : "person.awards",
+    "description" : "Expands the awards section in a person"
+  }, {
+    "name" : "awards.person",
+    "description" : "Expands the person section in the awards"
+  }, {
+    "name" : "awards.team",
+    "description" : "Expands the team section in the awards"
+  }, {
+    "name" : "awards.results",
+    "description" : "Expands the results section for awards"
+  }, {
+    "name" : "roster.person",
+    "description" : "Expands the person section in the rosters"
+  }, {
+    "name" : "standings.team",
+    "description" : "Expands the team section of standings"
+  }, {
+    "name" : "standings.division",
+    "description" : "Expands the division section of standings"
+  }, {
+    "name" : "standings.conference",
+    "description" : "Expands the conference section of standings"
+  }, {
+    "name" : "standings.record",
+    "description" : "Expand the entire record section of standings"
+  }, {
+    "name" : "standings.record.division",
+    "description" : "Expand the division record section of standings"
+  }, {
+    "name" : "standings.record.conference",
+    "description" : "Expand the conference record section of standings"
+  }, {
+    "name" : "standings.record.overall",
+    "description" : "Expand the overall record section of standings"
+  }, {
+    "name" : "team.league",
+    "description" : "Expands the league section of teams"
+  }, {
+    "name" : "team.stats",
+    "description" : "Expands the stats section of teams"
+  }, {
+    "name" : "team.roster",
+    "description" : "Expands the rosters section of teams"
+  }, {
+    "name" : "team.division",
+    "description" : "Expands the division section of teams"
+  }, {
+    "name" : "team.conference",
+    "description" : "Expands the conference section of teams"
+  }, {
+    "name" : "team.franchise",
+    "description" : "Expands the franchise section of teams"
+  }, {
+    "name" : "team.leaders",
+    "description" : "Expands the team leaders section of teams"
+  }, {
+    "name" : "team.schedule.next",
+    "description" : "Expands the nextGame section of teams"
+  }, {
+    "name" : "team.schedule.previous",
+    "description" : "Expands the previousGame section of teams"
+  }, {
+    "name" : "team.ticket",
+    "description" : "Expands the ticket section of teams"
+  }, {
+    "name" : "team.content.home.all",
+    "description" : "Expands the home content section of teams"
+  }, {
+    "name" : "team.record",
+    "description" : "Expands season record for a team"
+  }, {
+    "name" : "team.playoffs",
+    "description" : "Expands basic playoff info for a team"
+  }, {
+    "name" : "team.name",
+    "description" : "Expands team name info for a team"
+  }, {
+    "name" : "team.social",
+    "description" : "Expands team social network info for a team. For example, twitter, facebook, and instagram, if available"
+  }, {
+    "name" : "team.deviceProperties",
+    "description" : "Expands mobile team specific properties"
+  }, {
+    "name" : "team.content.sections",
+    "description" : "Expands the custom device sections"
+  }, {
+    "name" : "tournament.series.schedule",
+    "description" : "Expands the schedule section of series"
+  }, {
+    "name" : "schedule.linescore",
+    "description" : "Expands the linescore section of a schedule"
+  }, {
+    "name" : "schedule.scoringplays",
+    "description" : "Expands the scoring plays section of a schedule"
+  }, {
+    "name" : "schedule.decisions",
+    "description" : "Expands the decisions section of a schedule"
+  }, {
+    "name" : "schedule.teams",
+    "description" : "Expands the teams section of a schedule"
+  }, {
+    "name" : "schedule.ticket",
+    "description" : "Expands the ticket section of a schedule"
+  }, {
+    "name" : "schedule.venue",
+    "description" : "Expands the venue section of a schedule"
+  }, {
+    "name" : "schedule.broadcasts",
+    "description" : "Expands the broadcasts section of a schedule"
+  }, {
+    "name" : "schedule.broadcasts.all",
+    "description" : "Expands the broadcasts section of a schedule including all countries"
+  }, {
+    "name" : "schedule.radioBroadcasts",
+    "description" : "Expands the radio broadcasts section of a schedule"
+  }, {
+    "name" : "schedule.metadata",
+    "description" : "Expands the metadata section of a schedule"
+  }, {
+    "name" : "schedule.game.content.all",
+    "description" : "Expands the content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.media.all",
+    "description" : "Expands the media content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.editorial.all",
+    "description" : "Expands the editorial content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.editorial.preview",
+    "description" : "Expands the editorial preview content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.editorial.recap",
+    "description" : "Expands the editorial recap content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.editorial.articles",
+    "description" : "Expands the editorial articles content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.media.epg",
+    "description" : "Expands the epg media content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.media.milestones",
+    "description" : "Expands the milestones section of the schedule"
+  }, {
+    "name" : "schedule.game.content.highlights.all",
+    "description" : "Expands the highlights content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.highlights.scoreboard",
+    "description" : "Expands the highlights scoreboard content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.highlights.gamecenter",
+    "description" : "Expands the highlights gamecenter content section of the schedule"
+  }, {
+    "name" : "schedule.game.content.highlights.milestone",
+    "description" : "Expands the highlights milestone content section of the schedule"
+  }, {
+    "name" : "schedule.game.seriesSummary",
+    "description" : "Expands the series summary for playoff games"
+  }, {
+    "name" : "seriesSummary.series",
+    "description" : "Expands the series for a series summary for playoff games"
+  }, {
+    "name" : "game.team",
+    "description" : "Expands the team object"
+  }, {
+    "name" : "decisions.person",
+    "description" : "Expands the person object"
+  }, {
+    "name" : "scoringplays.person",
+    "description" : "Expands the person object"
+  }, {
+    "name" : "stats.team",
+    "description" : "Expands the team section of stats"
+  }, {
+    "name" : "leaders.person",
+    "description" : "Expands the people in the leaders"
+  }, {
+    "name" : "leaders.team",
+    "description" : "Expands the team in the leaders"
+  }, {
+    "name" : "division.conference",
+    "description" : "Expands the conference section of the division"
+  }, {
+    "name" : "round.series",
+    "description" : "Expands the series section of a tournaments rounds"
+  }, {
+    "name" : "series.conference",
+    "description" : "Expands the conference for the series"
+  }, {
+    "name" : "series.schedule",
+    "description" : "Expands the schedule for the series"
+  }, {
+    "name" : "series.round",
+    "description" : "Expands the round for a series"
+  }, {
+    "name" : "series.matchup.team",
+    "description" : "Expands the teams in a series matchup"
+  }, {
+    "name" : "series.games.team",
+    "description" : "Expands the teams in a series games"
+  } ]
